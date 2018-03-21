@@ -1,0 +1,12 @@
+{
+  "name": "what-should-i-do-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MikeLegemah5799/what-should-i-do-app.git",
+  "author": "Michael Legemah <MichaelLegemah@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
